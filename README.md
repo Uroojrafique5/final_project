@@ -1,6 +1,6 @@
-# Wellness Site - Vite + React + Tailwind
+# Wellness Site
 
-This project is prepared to work with `npm install`.
+This project is prepared using Vite + React + Tailwind.
 
 steps:
 
