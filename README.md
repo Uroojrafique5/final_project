@@ -1,12 +1,10 @@
-# Wellness Site (fixed) - Vite + React + Tailwind
+# Wellness Site - Vite + React + Tailwind
 
-This project is prepared to work with `npm install` without peer dependency errors.
+This project is prepared to work with `npm install`.
 
-## Quick start
+steps:
 
 1. npm install
 2. npm run dev
 
 If you face a dependency error, run `npm install --legacy-peer-deps` instead.
-
-Enjoy!
